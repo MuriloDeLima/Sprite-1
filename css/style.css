@@ -2,7 +2,7 @@
     background-image: url("../imgs/dinoss-anima.png");
     width: 120px;
     height: 134px;
-    animation: anima-sprite 1.0s steps(6) infinite;
+    animation: anima-sprite 0.5s steps(6) infinite;
 }
 
 @keyframes anima-sprite{
